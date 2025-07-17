@@ -1,0 +1,28 @@
+
+body{background:#e1cdd5 }
+img{border: 5px solid whitesmoke; width: 100%;}
+p{font-size: 1.5rem;}
+h1{font-size: 3rem;}
+
+
+.tarjeta  { 
+       margin-top:100px;    
+       width:50%; 
+       margin-left:25%;
+       font-family: 'Times New Roman', Times, serif; 
+       color: #07262c;
+       text-align: center;
+    }  
+    
+    
+
+    .juntos { 
+       margin-top:100px;    
+       width:50%; 
+       margin-left:25%;
+       font-family: 'Times New Roman', Times, serif; 
+       color: #07262c;
+       text-align: center;
+    }  
+
+    .hint{font-size: medium; color: red;}
